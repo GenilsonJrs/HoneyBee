@@ -1,7 +1,7 @@
 <h1 align="center"> HoneyBee </h1>
-<h2 align="center"> Início: 09/04/2024 </h2>
+<h2 align="center"> Inicio: 09/04/2024 </h2>
 
-## Sobre 
+## Sobre
 <div>
     <p> Repositório com o intuito de documentar e arquivar imagens, textos e a trajetória de Genilson Junior e Rafaela Zatron.</p>
 </div>
@@ -17,12 +17,12 @@
             </a>
         </div>
         <div>
-            <a href="https://github.com/GenilsonJrs">
-                <img src="https://github.com/GenilsonJrs.png" alt="GenilsonJrs" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
+            <a href="https://github.com/PedroHhenriq">
+                <img src="https://github.com/GenilsonJrs.png" alt="Genilson Junior" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);" width="120px">
                 <h5 style="text-align: center; margin-top: 5px;">Genilson Junior</h5>
             </a>
         </div>
-
+    </div>
 </div>
 
 <center>
@@ -31,7 +31,7 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| `1.0`   | 09/04/2024 | Criação                | [Genilson Junior](https://github.com/GenilsonJrs) | [Rafaela Zaltron](https://github.com/RZaltron)         |
+| `1.0`   | 09/04/2024 | Criação da página                         | [Genilson Junior](https://github.com/GenilsonJrs) | [Rafaela Zaltron](https://github.com/RZaltron)         |
 
 </center>
 

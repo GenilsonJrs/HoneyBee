@@ -45,11 +45,11 @@ markdown_extensions:
 # Page tree
 nav: 
   - Início: index.md
-  - Documentos: 
-      - Documentos: documentos.md
+  - Textos: 
+      - Weekend: documentos.md
   - Imagens:
       - Imagens: imagens.md
   - PDFs:
-      - PDFS: PDFS.md
+      - PDFs: PDFs.md
   - Programas:
       - Programas: programas.md

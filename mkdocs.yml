@@ -46,10 +46,11 @@ markdown_extensions:
 nav: 
   - Início: index.md
   - Documentos PDF: 
-      - Weekend: Documentos/documentos.md
+      - Weekend: Documentos/weekend.md
+      - Past Lives 1: Documentos/pastlives1.md
   - Imagens:
       - Imagens: Imagens/imagens.md
   - Documentos Word:
-      - Viagem 2: Documentos/arquivos.md
+      - Past Lives 2: Documentos/pastlives2.md
   - Programas:
       - Programas: Programas/programas.md

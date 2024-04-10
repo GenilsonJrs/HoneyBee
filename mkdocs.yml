@@ -24,7 +24,7 @@ extra:
   - style.css
 
 copyright: |
-  &copy; 2024 - IHC
+  &copy; 2024 - GJR
 
 markdown_extensions:
   - pymdownx.emoji

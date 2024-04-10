@@ -46,7 +46,7 @@ markdown_extensions:
 nav: 
   - Início: index.md
   - Textos: 
-      - Weekend: documentos.md
+      - Weekend: Documentos/documentos.md
   - Imagens:
       - Imagens: imagens.md
   - PDFs:
